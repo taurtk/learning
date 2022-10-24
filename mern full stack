@@ -1,0 +1,124 @@
+React JS (MERN) Full Stack Development Course Syllabus:*
+
+*HTML 5*
+CSS 3
+JavaScript ES5, ES6.
+MongoDB
+NODE JS(EXPRESS JS + MONGODB)
+React Js
+HTML 5
+HTML Intro
+How Browser Works
+HTTP And HTML Tree
+Nodes Structure
+Basic Display Tags
+Nesting In HTML
+Inheritance Of Tags
+List In Html
+Table In Html
+Advance Table Logic
+Semantic Elements
+HTML 5 More Tags
+Special Characters In HTML 5
+
+*CSS-3*
+
+CSS 3 Intro
+How CSS Works
+CSS History
+Types Of CSS
+Specificity Magnitude
+Advance Selector Types
+Box Model
+Text Properties
+Common CSS Properties
+Display In CSS Property
+Flex Box
+Backgrounds
+CSS Positions
+CSS Animation 2D
+CSS Animation 3D
+Pseudo Classes
+Pseudo Elements
+Rules In CSS
+Responsive In CSS
+SCSS
+
+*Javascript*
+
+Basics Part-1
+Basics Part-2
+JS Native Object And Classes
+Event Loop
+Arrays And Logic.
+Strings And Logic
+Date And Logic
+Custom Objects.
+Callback Function
+Event Management.
+Functional Programming.
+Prototyping
+Static Method
+SET And GET
+Inheritance
+Method Overriding
+Poly Forms
+Object/Prop/Methods
+Process.
+Code Normalization.
+Asynchronous.
+File Handling.
+Local Storage
+Cookies
+Promises In JS
+Async And Await, Fetch
+Parallax Effects
+
+*NODE JS(EXPRESS JS + MONGODB)*
+
+NODE Into
+Modules
+System Module
+3rd Party Module NPM
+Custom Module
+Files System In Node
+Express JS (Intro)
+Basic Application With MVC
+Form Handling
+Session In Node
+Introduction To MongoDB
+Mongoose Helper
+Basic Query
+CRUD In Node
+Node + AJAX
+File Handling
+JWT
+Cookies
+Crypto In Node JS
+Emailing
+SMS Gateway
+Payment Gateway
+Node With PM2
+Reverse Proxy
+NodeJs + NGINX
+Load Balancing
+Deployment Of Project On Hosting With Cpanel
+Deployment Of Project On Hosting Without Cpanel
+
+*React JS(ReactJS + MONGODB)*
+
+React Into
+React Components
+JSX
+Props And State In React Js
+React Routing
+Axios With React
+React Form Handling
+Redux
+Redux With React
+Combining Reducers
+Redux Thunk
+Animation In React
+Auth In React
+API Handling And Client Communication CORS
+Building And Deploying React Applications.

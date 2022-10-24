@@ -1,0 +1,47 @@
+ Someone shared his Interview Experience of Deloitte 
+
+Company
+👉Deloitte Consulting - USI (Deloitte Digital)
+
+Position
+Consultant
+
+Years of Experience 
+3
+
+Company Location 
+Bangalore
+
+Interview Experience
+There were 3 rounds:
+
+1) React & JavaScript round | 90 mins
+- Asked to create a todo application 
+- Two APIs were given: GET to get all the existing todo list and display it in a table format
+POST : to add new todo
+- Each row should have 2 icons : edit and delete.
+- After that interviewer asked to perform 2 task : sort the table based on todo task name (ascending order) and then there was a button on click of which the table should get sorted acc to the todo task whose due date is approaching. 70 mins for the task.
+- Some JS questions like: Difference between forEach & Map, prototypal inheritance, diff between spread and rest op., 
+
+2) JS & HTML/CSS round | 60-70 mins
+Questions like: 
+-Sort an array without using inbuilt function and only 1 loop
+- Remove duplicate integers from array of integers
+- Find 2nd maximum number from array of integers with duplicate numbers
+- Write a function to create a prototype for adding 3 numbers
+- Questions based on object.freeze
+- var, let, const, hoisting
+- promises, event loop
+- closures, setTimeout
+- What happen if we don't use docType
+-  What happen if we declare footer first then aside then header tag in an html file
+- flexbox, box shadow, aligning questions, transition, animation
+
+3) Techno managerial round | 45 mins
+- Questions based on Agile like difference between agile and waterfall
+- What you like about agile development
+- what will you like to change while working in agile development mode
+- Your biggest success/achievement 
+- Your weakness which made you better developer
+- Describe your projects in detail and what challenges you faced and how you resolved
+- 2-3 puzzle questions
